@@ -1,0 +1,7 @@
+#cleanFilter{
+    background-color: #e7e7e7;
+    display: none;
+}
+.filterForm.active #cleanFilter{
+    display: block;
+}
